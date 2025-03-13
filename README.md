@@ -39,7 +39,7 @@ pip install numpy pandas matplotlib seaborn tensorflow keras scikit-learn
 ## Kullanım
 1️⃣ Bu depoyu klonlayın
 ```bash
-git clone https://github.com/<kullanıcı-adınız>/<depo-adınız>.git
+git clone https://github.com/llwusill/BrainTumorDetection.git
 ```
 2️⃣ Google Colab'da Drive'ınızı bağlayın (eğer sağlanan not defterini kullanıyorsanız) ve veri setinizin yolunu güncelleyin.
 
