@@ -24,10 +24,15 @@ pip install numpy pandas matplotlib seaborn tensorflow keras scikit-learn
 ```
 
 ## Proje Yapısı
+
 1️⃣ Veri Hazırlığı: Google Drive bağlama, görüntüleri yükleme ve örnekleri görselleştirme.
+
 2️⃣ CNN Modeli: Keras ile Conv2D, MaxPooling2D ve Dense katmanları kullanılarak oluşturulmuştur.
+
 3️⃣ SVM Modeli: Rastgele oluşturulan verilerle eğitilmiştir (MR özelliklerine uyarlanabilir).
+
 4️⃣ Naive Bayes Modeli: Gaussian Naive Bayes ile sınıflandırma yapılmıştır.
+
 5️⃣ Görselleştirme: Matplotlib ile örnek MR görüntüleri gösterilmiştir.
 
 
@@ -37,6 +42,7 @@ pip install numpy pandas matplotlib seaborn tensorflow keras scikit-learn
 git clone https://github.com/<kullanıcı-adınız>/<depo-adınız>.git
 ```
 2️⃣ Google Colab'da Drive'ınızı bağlayın (eğer sağlanan not defterini kullanıyorsanız) ve veri setinizin yolunu güncelleyin.
+
 3️⃣Not defterindeki hücreleri adım adım çalıştırarak veriyi işleyin, modelleri eğitin ve sonuçları değerlendirin.
 
 
